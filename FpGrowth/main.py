@@ -1,5 +1,5 @@
-# OGUZHAN SEZGIN - 1801042005
-# DATA MINING - HOMEWORK 3
+# OGUZHAN SEZGIN 
+# DATA MINING - HOMEWORK 
 
 import pandas as pd
 from anytree import Node, RenderTree, ContRoundStyle, findall
